@@ -6,6 +6,8 @@ repo: dragon-upptime # Your GitHub repository name
 sites:
   - name: DragonYuan Website
     url: https://www.dragon-yuan.me
+  - name: GQZ Website
+    url: http://www.gaoqiuzi.cn
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
