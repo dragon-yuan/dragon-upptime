@@ -10,15 +10,33 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.48%",
-    "time": 1335,
-    "timeDay": 1307,
-    "timeWeek": 1297,
-    "timeMonth": 1335,
-    "timeYear": 1335,
+    "time": 1340,
+    "timeDay": 1358,
+    "timeWeek": 1308,
+    "timeMonth": 1340,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2021-01-04": 7,
       "2020-12-30": 33,
       "2020-12-29": 26
     }
+  },
+  {
+    "name": "GQZ Website",
+    "url": "http://www.gaoqiuzi.cn",
+    "icon": "https://favicons.githubusercontent.com/www.gaoqiuzi.cn",
+    "slug": "gqz-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1503,
+    "timeDay": 1503,
+    "timeWeek": 1503,
+    "timeMonth": 1503,
+    "timeYear": 1503,
+    "dailyMinutesDown": {}
   }
 ]
