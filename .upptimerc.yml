@@ -4,9 +4,9 @@ repo: dragon-upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: DragonYuan Website
+  - name: Website
     url: https://www.dragon-yuan.me
-  - name: GQZ Website
+  - name: GQZ
     url: http://www.gaoqiuzi.cn
 
 status-website:
