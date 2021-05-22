@@ -22,17 +22,17 @@
     "url": "http://www.gaoqiuzi.cn",
     "icon": "https://favicons.githubusercontent.com/www.gaoqiuzi.cn",
     "slug": "gqz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2987,
-    "timeDay": 3168,
-    "timeWeek": 3072,
-    "timeMonth": 3023,
-    "timeYear": 2987,
+    "time": 2979,
+    "timeDay": 2623,
+    "timeWeek": 2996,
+    "timeMonth": 3006,
+    "timeYear": 2979,
     "dailyMinutesDown": {}
   }
 ]
