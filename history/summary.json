@@ -4,7 +4,7 @@
     "url": "https://www.dragon-yuan.me",
     "icon": "https://favicons.githubusercontent.com/www.dragon-yuan.me",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 1587,
     "timeDay": 1186,
-    "timeWeek": 1498,
-    "timeMonth": 1412,
+    "timeWeek": 1535,
+    "timeMonth": 1394,
     "timeYear": 1587,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 2982,
     "timeDay": 3000,
-    "timeWeek": 3063,
-    "timeMonth": 2999,
+    "timeWeek": 3138,
+    "timeMonth": 2996,
     "timeYear": 2982,
     "dailyMinutesDown": {}
   }
