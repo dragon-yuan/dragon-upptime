@@ -4,7 +4,7 @@
     "url": "https://www.dragon-yuan.me",
     "icon": "https://favicons.githubusercontent.com/www.dragon-yuan.me",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2939,
     "timeDay": 2991,
-    "timeWeek": 2833,
+    "timeWeek": 2814,
     "timeMonth": 2914,
     "timeYear": 2939,
     "dailyMinutesDown": {}
